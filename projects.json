@@ -1,0 +1,20 @@
+{
+  "project_one": {
+    "title": "my_title",
+    "tagline": "project synopsis",
+    "images": {
+      "cover": "image_url",
+      "detail": "image_url"
+    },
+    "description": "my description here"
+  },
+  "project_two": {
+    "title": "my_title",
+    "tagline": "project synopsis",
+    "images": {
+      "cover": "image_url",
+      "detail": "image_url"
+    },
+    "description": "my description here"
+  }
+}
