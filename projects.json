@@ -1,20 +1,20 @@
 [
   {
-    "title": "my_title",
-    "tagline": "project synopsis",
+    "title": "Project One",
+    "tagline": "project synopsis 1",
     "images": {
       "cover": "image_url",
       "detail": "image_url"
     },
-    "description": "my description here"
+    "description": "Project One description here"
   },
   {
-    "title": "my_title",
-    "tagline": "project synopsis",
+    "title": "Project Two",
+    "tagline": "project synopsis 2",
     "images": {
       "cover": "image_url",
       "detail": "image_url"
     },
-    "description": "my description here"
+    "description": "Project Two description here"
   }
 ]
