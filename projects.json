@@ -6,6 +6,7 @@
   "images": {
       "cover": "https://github.com/dvdzmr/portfolio-projects/blob/main/Media/projects/weather_app_thumbnail.png?raw=true",
       "detail": "https://github.com/dvdzmr/portfolio-projects/blob/main/Media/projects/weather_app_thumbnail.png?raw=true"
+    }
   },
   {
   "title": "Placeholder 1",
@@ -14,5 +15,6 @@
   "images": {
       "cover": "https://github.com/dvdzmr/portfolio-projects/blob/main/Media/projects/python_project_thumbnail.png?raw=true",
       "detail": "https://github.com/dvdzmr/portfolio-projects/blob/main/Media/projects/python_project_thumbnail.png?raw=true"
+    }
   }
 ]
