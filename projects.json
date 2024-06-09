@@ -3,8 +3,8 @@
   "title": "Bite",
   "tagline": "Personalized homepage with widgets",
   "images": {
-      "cover": "./src/media/projects/weather_app_thumbnail.png",
-      "detail": "./src/media/projects/weather_app_thumbnail.png"
+      "cover": "https://github.com/dvdzmr/portfolio-projects/blob/main/Media/projects/weather_app_thumbnail.png?raw=true",
+      "detail": "https://github.com/dvdzmr/portfolio-projects/blob/main/Media/projects/weather_app_thumbnail.png?raw=true"
   },
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id lacus mauris. Donec ultrices pellentesque nulla et posuere. Curabitur consectetur metus diam, eget sagittis mi varius vitae. Duis ullamcorper, elit vehicula convallis mollis, nulla metus iaculis massa, et eleifend purus lacus sed elit. Phasellus convallis lobortis mauris sed porttitor. Etiam convallis condimentum nibh dictum semper. Donec scelerisque convallis sem, quis facilisis urna convallis ac. Integer sed urna accumsan, pretium dui eget, interdum arcu. Nulla dignissim massa at velit cursus dignissim. Integer elit massa, fermentum quis auctor ac, laoreet in ante. Donec turpis eros, bibendum quis sollicitudin a, facilisis at justo. Aenean accumsan eu purus vel venenatis. Vestibulum eget elit nec tellus laoreet egestas. Phasellus eu est in mauris congue fermentum. Aenean efficitur a lorem eu finibus.\n" +
       "\n" +
@@ -20,8 +20,8 @@
   "title": "Placeholder 1",
   "tagline": "Testing out automatic projects",
   "images": {
-      "cover": "./src/media/projects/weather_app_thumbnail.png",
-      "detail": "./src/media/projects/weather_app_thumbnail.png"
+      "cover": "https://github.com/dvdzmr/portfolio-projects/blob/main/Media/projects/python_project_thumbnail.png?raw=true",
+      "detail": "https://github.com/dvdzmr/portfolio-projects/blob/main/Media/projects/python_project_thumbnail.png?raw=true"
   },
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id lacus mauris. Donec ultrices pellentesque nulla et posuere. Curabitur consectetur metus diam, eget sagittis mi varius vitae. Duis ullamcorper, elit vehicula convallis mollis, nulla metus iaculis massa, et eleifend purus lacus sed elit. Phasellus convallis lobortis mauris sed porttitor. Etiam convallis condimentum nibh dictum semper. Donec scelerisque convallis sem, quis facilisis urna convallis ac. Integer sed urna accumsan, pretium dui eget, interdum arcu. Nulla dignissim massa at velit cursus dignissim. Integer elit massa, fermentum quis auctor ac, laoreet in ante. Donec turpis eros, bibendum quis sollicitudin a, facilisis at justo. Aenean accumsan eu purus vel venenatis. Vestibulum eget elit nec tellus laoreet egestas. Phasellus eu est in mauris congue fermentum. Aenean efficitur a lorem eu finibus.\n" +
       "\n" +
@@ -32,5 +32,5 @@
       "Aliquam commodo eros ligula, at aliquam ante aliquam eget. Suspendisse at auctor metus. Nunc interdum faucibus orci id sodales. Curabitur bibendum turpis a magna placerat, eget gravida purus facilisis. Curabitur at est at odio gravida tempus. Integer eget fermentum nulla. Nulla aliquam tellus sit amet neque ullamcorper, eu interdum diam sodales. Nam sollicitudin neque a lacus dictum dignissim. Morbi orci purus, ornare sit amet accumsan ut, venenatis ut metus. Mauris finibus nisi at efficitur gravida.\n" +
       "\n" +
       "In hac habitasse platea dictumst. Nunc et dictum ante. Vivamus vitae neque faucibus, congue nulla aliquet, auctor ipsum. Fusce maximus lectus sed est interdum, ac aliquet libero venenatis. Suspendisse non sollicitudin justo, ut fermentum massa. Integer eu lobortis risus, non pulvinar felis. Curabitur ullamcorper massa ut feugiat congue. Fusce ut efficitur lacus. Nunc cursus metus mattis semper porttitor. In fermentum ligula eget ipsum consequat, quis porta elit dapibus. Vestibulum bibendum est vestibulum diam facilisis, consequat molestie nunc tristique. Donec maximus gravida quam eget tincidunt. Phasellus vulputate, ex eget sollicitudin tincidunt, mauris sem consequat velit, ut tristique orci ex sagittis nibh. Mauris vitae nisi eros. Maecenas porta mauris et nibh auctor, placerat interdum libero lacinia."
-  },
+  }
 ]
