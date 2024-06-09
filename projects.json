@@ -1,5 +1,5 @@
-{
-  "project_one": {
+[
+  {
     "title": "my_title",
     "tagline": "project synopsis",
     "images": {
@@ -8,7 +8,7 @@
     },
     "description": "my description here"
   },
-  "project_two": {
+  {
     "title": "my_title",
     "tagline": "project synopsis",
     "images": {
@@ -17,4 +17,4 @@
     },
     "description": "my description here"
   }
-}
+]
