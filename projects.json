@@ -3,34 +3,36 @@
   "title": "Bite",
   "tagline": "Personalized homepage with widgets",
   "images": {
-      "cover": "./src/media/projects/weather_app_thumbnail.png",
-      "detail": "./src/media/projects/weather_app_thumbnail.png"
+      "cover": "./src/media/projects/bite.png",
+      "detail": "./src/media/projects/bite_detail.png"
   },
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id lacus mauris. Donec ultrices pellentesque nulla et posuere. Curabitur consectetur metus diam, eget sagittis mi varius vitae. Duis ullamcorper, elit vehicula convallis mollis, nulla metus iaculis massa, et eleifend purus lacus sed elit. Phasellus convallis lobortis mauris sed porttitor. Etiam convallis condimentum nibh dictum semper. Donec scelerisque convallis sem, quis facilisis urna convallis ac. Integer sed urna accumsan, pretium dui eget, interdum arcu. Nulla dignissim massa at velit cursus dignissim. Integer elit massa, fermentum quis auctor ac, laoreet in ante. Donec turpis eros, bibendum quis sollicitudin a, facilisis at justo. Aenean accumsan eu purus vel venenatis. Vestibulum eget elit nec tellus laoreet egestas. Phasellus eu est in mauris congue fermentum. Aenean efficitur a lorem eu finibus.\n" +
-      "\n" +
-      "Nullam et pulvinar mauris. Phasellus consectetur quam eu mi venenatis volutpat. Donec at mollis ante, non malesuada orci. Duis at eros ut felis interdum fermentum ac ac neque. Ut faucibus, lorem non euismod viverra, sem eros rutrum tellus, sit amet commodo quam elit nec dolor. Cras placerat ante nisl, a vestibulum risus pharetra et. Proin et augue sed tortor lobortis gravida ut id mi. Duis accumsan magna non neque venenatis accumsan. Mauris sed felis nisi. Fusce turpis tellus, pharetra sed sollicitudin id, congue et massa.\n" +
-      "\n" +
-      "Mauris volutpat leo id enim aliquam blandit. Sed sem massa, accumsan id turpis vel, pretium commodo metus. Nulla eget enim lacinia leo consectetur tristique ullamcorper et tellus. Proin consequat congue nisl a suscipit. Cras consectetur egestas tempus. Nam at magna sit amet justo rutrum luctus id non enim. Praesent pulvinar purus vitae elit euismod maximus. Vestibulum consequat imperdiet elit sit amet vehicula. Suspendisse bibendum lectus dignissim diam convallis, ultricies ornare libero vulputate. Morbi sodales neque ex, sed cursus felis accumsan vel. Curabitur id massa posuere, egestas diam a, efficitur nisi.\n" +
-      "\n" +
-      "Aliquam commodo eros ligula, at aliquam ante aliquam eget. Suspendisse at auctor metus. Nunc interdum faucibus orci id sodales. Curabitur bibendum turpis a magna placerat, eget gravida purus facilisis. Curabitur at est at odio gravida tempus. Integer eget fermentum nulla. Nulla aliquam tellus sit amet neque ullamcorper, eu interdum diam sodales. Nam sollicitudin neque a lacus dictum dignissim. Morbi orci purus, ornare sit amet accumsan ut, venenatis ut metus. Mauris finibus nisi at efficitur gravida.\n" +
-      "\n" +
-      "In hac habitasse platea dictumst. Nunc et dictum ante. Vivamus vitae neque faucibus, congue nulla aliquet, auctor ipsum. Fusce maximus lectus sed est interdum, ac aliquet libero venenatis. Suspendisse non sollicitudin justo, ut fermentum massa. Integer eu lobortis risus, non pulvinar felis. Curabitur ullamcorper massa ut feugiat congue. Fusce ut efficitur lacus. Nunc cursus metus mattis semper porttitor. In fermentum ligula eget ipsum consequat, quis porta elit dapibus. Vestibulum bibendum est vestibulum diam facilisis, consequat molestie nunc tristique. Donec maximus gravida quam eget tincidunt. Phasellus vulputate, ex eget sollicitudin tincidunt, mauris sem consequat velit, ut tristique orci ex sagittis nibh. Mauris vitae nisi eros. Maecenas porta mauris et nibh auctor, placerat interdum libero lacinia."
+  "description": "At the end of my fullstack bootcamp we had to do a final project, I decided for my project to create a spiritual successor of iGoogle. This service was a personalized homepage with integrated google search and access to a bunch of widgets, such as calendar, notes, etc. I made use of react and bootstrap for the majority of this project, and made API calls to openweatherapi and news.io for the weather and news widger respectively. You can check out my repository and deployment below.",
+  "repository":"https://github.com/dvdzmr/bite",
+  "deployment":"https://dvdzmr.github.io/bite/"
+  
   },
+  
   {
-  "title": "Placeholder 1",
-  "tagline": "Testing out automatic projects",
+  "title": "Buildroot",
+  "tagline": "Template for external tree building",
   "images": {
-      "cover": "./src/media/projects/weather_app_thumbnail.png",
-      "detail": "./src/media/projects/weather_app_thumbnail.png"
+      "cover": "./src/media/projects/buildroot.png",
+      "detail": "./src/media/projects/buildroot.png"
   },
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id lacus mauris. Donec ultrices pellentesque nulla et posuere. Curabitur consectetur metus diam, eget sagittis mi varius vitae. Duis ullamcorper, elit vehicula convallis mollis, nulla metus iaculis massa, et eleifend purus lacus sed elit. Phasellus convallis lobortis mauris sed porttitor. Etiam convallis condimentum nibh dictum semper. Donec scelerisque convallis sem, quis facilisis urna convallis ac. Integer sed urna accumsan, pretium dui eget, interdum arcu. Nulla dignissim massa at velit cursus dignissim. Integer elit massa, fermentum quis auctor ac, laoreet in ante. Donec turpis eros, bibendum quis sollicitudin a, facilisis at justo. Aenean accumsan eu purus vel venenatis. Vestibulum eget elit nec tellus laoreet egestas. Phasellus eu est in mauris congue fermentum. Aenean efficitur a lorem eu finibus.\n" +
-      "\n" +
-      "Nullam et pulvinar mauris. Phasellus consectetur quam eu mi venenatis volutpat. Donec at mollis ante, non malesuada orci. Duis at eros ut felis interdum fermentum ac ac neque. Ut faucibus, lorem non euismod viverra, sem eros rutrum tellus, sit amet commodo quam elit nec dolor. Cras placerat ante nisl, a vestibulum risus pharetra et. Proin et augue sed tortor lobortis gravida ut id mi. Duis accumsan magna non neque venenatis accumsan. Mauris sed felis nisi. Fusce turpis tellus, pharetra sed sollicitudin id, congue et massa.\n" +
-      "\n" +
-      "Mauris volutpat leo id enim aliquam blandit. Sed sem massa, accumsan id turpis vel, pretium commodo metus. Nulla eget enim lacinia leo consectetur tristique ullamcorper et tellus. Proin consequat congue nisl a suscipit. Cras consectetur egestas tempus. Nam at magna sit amet justo rutrum luctus id non enim. Praesent pulvinar purus vitae elit euismod maximus. Vestibulum consequat imperdiet elit sit amet vehicula. Suspendisse bibendum lectus dignissim diam convallis, ultricies ornare libero vulputate. Morbi sodales neque ex, sed cursus felis accumsan vel. Curabitur id massa posuere, egestas diam a, efficitur nisi.\n" +
-      "\n" +
-      "Aliquam commodo eros ligula, at aliquam ante aliquam eget. Suspendisse at auctor metus. Nunc interdum faucibus orci id sodales. Curabitur bibendum turpis a magna placerat, eget gravida purus facilisis. Curabitur at est at odio gravida tempus. Integer eget fermentum nulla. Nulla aliquam tellus sit amet neque ullamcorper, eu interdum diam sodales. Nam sollicitudin neque a lacus dictum dignissim. Morbi orci purus, ornare sit amet accumsan ut, venenatis ut metus. Mauris finibus nisi at efficitur gravida.\n" +
-      "\n" +
-      "In hac habitasse platea dictumst. Nunc et dictum ante. Vivamus vitae neque faucibus, congue nulla aliquet, auctor ipsum. Fusce maximus lectus sed est interdum, ac aliquet libero venenatis. Suspendisse non sollicitudin justo, ut fermentum massa. Integer eu lobortis risus, non pulvinar felis. Curabitur ullamcorper massa ut feugiat congue. Fusce ut efficitur lacus. Nunc cursus metus mattis semper porttitor. In fermentum ligula eget ipsum consequat, quis porta elit dapibus. Vestibulum bibendum est vestibulum diam facilisis, consequat molestie nunc tristique. Donec maximus gravida quam eget tincidunt. Phasellus vulputate, ex eget sollicitudin tincidunt, mauris sem consequat velit, ut tristique orci ex sagittis nibh. Mauris vitae nisi eros. Maecenas porta mauris et nibh auctor, placerat interdum libero lacinia."
+  "description": "placeholder",
+  "repository":"https://github.com/dvdzmr/buildroot-external-tree-sample",
+  "deployment":""
   },
+  
+  {
+  "title": "ESP32",
+  "tagline": "Sensor gathering for use with azure",
+  "images": {
+      "cover": "./src/media/projects/esp.png",
+      "detail": "./src/media/projects/esp.png"
+  },
+  "description": "placeholder",
+  "repository":"",
+  "deployment":""
+  }
 ]
