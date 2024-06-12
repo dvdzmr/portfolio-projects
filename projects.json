@@ -3,21 +3,20 @@
   "title": "Bite",
   "tagline": "Personalized homepage with widgets",
   "images": {
-      "cover": "./src/media/projects/bite.png",
-      "detail": "./src/media/projects/bite_detail.png"
+      "cover": "https://github.com/dvdzmr/portfolio-projects/blob/main/Media/projects/bite.png?raw=true",
+      "detail": "https://github.com/dvdzmr/portfolio-projects/blob/main/Media/projects/bite_detail.png?raw=true"
   },
   "description": "At the end of my fullstack bootcamp we had to do a final project, I decided for my project to create a spiritual successor of iGoogle. This service was a personalized homepage with integrated google search and access to a bunch of widgets, such as calendar, notes, etc. I made use of react and bootstrap for the majority of this project, and made API calls to openweatherapi and news.io for the weather and news widger respectively. You can check out my repository and deployment below.",
   "repository":"https://github.com/dvdzmr/bite",
   "deployment":"https://dvdzmr.github.io/bite/"
-  
   },
   
   {
   "title": "Buildroot",
   "tagline": "Template for external tree building",
   "images": {
-      "cover": "./src/media/projects/buildroot.png",
-      "detail": "./src/media/projects/buildroot.png"
+      "cover": "https://github.com/dvdzmr/portfolio-projects/blob/main/Media/projects/buildroot.png?raw=true",
+      "detail": "https://github.com/dvdzmr/portfolio-projects/blob/main/Media/projects/buildroot.png?raw=true"
   },
   "description": "placeholder",
   "repository":"https://github.com/dvdzmr/buildroot-external-tree-sample",
@@ -28,8 +27,8 @@
   "title": "ESP32",
   "tagline": "Sensor gathering for use with azure",
   "images": {
-      "cover": "./src/media/projects/esp.png",
-      "detail": "./src/media/projects/esp.png"
+      "cover": "https://github.com/dvdzmr/portfolio-projects/blob/main/Media/projects/esp.png?raw=true",
+      "detail": "https://github.com/dvdzmr/portfolio-projects/blob/main/Media/projects/esp.png?raw=true"
   },
   "description": "placeholder",
   "repository":"",
