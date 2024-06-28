@@ -16,22 +16,10 @@
   "tagline": "Template for external tree building",
   "images": {
       "cover": "https://github.com/dvdzmr/portfolio-projects/blob/main/Media/projects/buildroot.png?raw=true",
-      "detail": "https://github.com/dvdzmr/portfolio-projects/blob/main/Media/projects/buildroot.png?raw=true"
+      "detail": ""
   },
-  "description": "placeholder",
+  "description": "During one of my freelance jobs, I had to create a slimmed down (embedded) linux image for use with a Raspberry Pi. I chose to use buildroot for this, and it quickly became apparent that it was far easier to navigate if you used an external tree, this way you could reset easily if there were any major issues but also freely update to newer or older versions of buildroot without having to copy over your work. This repo is the result of this struggle, and hopefully can help somebody out who needs it.",
   "repository":"https://github.com/dvdzmr/buildroot-external-tree-sample",
-  "deployment":""
-  },
-  
-  {
-  "title": "ESP32",
-  "tagline": "Sensor gathering for use with azure",
-  "images": {
-      "cover": "https://github.com/dvdzmr/portfolio-projects/blob/main/Media/projects/esp.png?raw=true",
-      "detail": "https://github.com/dvdzmr/portfolio-projects/blob/main/Media/projects/esp.png?raw=true"
-  },
-  "description": "placeholder",
-  "repository":"",
   "deployment":""
   }
 ]
